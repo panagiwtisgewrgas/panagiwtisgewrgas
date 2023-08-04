@@ -8,7 +8,7 @@ _______
 
 <img align="right" alt="Coding" width="250" src="https://miro.medium.com/max/1208/0*CbJvtNMVUVp-FfDo.gif">
 
-- 🌱 Learning: **React Native, Unreal Engine & Arduino**
+- 🌱 Learning: **C# WinForms, HTML & CSS**
 
 - 📫 Contact Info: **panosgew789@gmail.com**
 
